@@ -13,7 +13,10 @@
 ## Como usar esse repositório para fazer melhorias localmente?
 1. Baixar o arquivo ```(Vivi Version) - Projeto Final Criatividade Computacional.ipynb``` presente neste repositório.
 2. Na sua conta do Google Drive, upar esse arquivo e abrir ele usando o Google Colab.
-3. Configure o ambiente de execução para rodar com GPU (é mais rápido). Usar a opção ````T4```.
+3. Configure o ambiente de execução para rodar com GPU (é mais rápido). Usar a opção ```T4```.
 4. Configurar as APIs que você vai precisar usar no notebook do Google Colab. (Usamos duas APIs):
-    * __API do Gemini:__
-    * __API da VertexAI da Google:__
+    * __API do Gemini:__ Basta seguir as informações dessa página: [Link para obtenção de chave para API e documentação da API do Gemini](https://ai.google.dev/)
+    * __API da VertexAI da Google:__ Esse é um pouco mais complicadinho... Vamos lá.
+         * Primeiro
+         * Segundo
+         * Terceiro
