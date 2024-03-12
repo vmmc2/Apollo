@@ -4,7 +4,7 @@
 * Uma aplicação de Machine Learning feita com Gradio que permite que usuários a criarem Singles a partir de uma imagem que descreve a 'vibe' do Single e de uma descrição textual sobre o Single a ser criado.
 
 ## Como usar esse repositório para fazer melhorias localmente?
-1. Baixar o arquivo ```(Vivi Version) - Projeto Final Criatividade Computacional.ipynb``` presente neste repositório.
+1. Baixar o arquivo ```CRIA_COMP_Apollo_Versao_Final.ipynb``` presente neste repositório.
 2. Na sua conta do Google Drive, upar esse arquivo e abrir ele usando o Google Colab.
 3. Configure o ambiente de execução para rodar com GPU (é mais rápido). Usar a opção ```T4```.
 4. Configurar as APIs que você vai precisar usar no notebook do Google Colab. (Usamos duas APIs):
